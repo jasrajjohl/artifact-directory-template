@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+ForumRec - A Question Recommender for the Super User Community
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The Super User forum exists on the internet as a medium for users to exchange information. In particular, the information shared here primarily related to questions pertaining to operating systems. The system we developed, ForumRec, aims to increase usability for the forum’s participants by specifically recommending questions that may be more suitable for a user in particular to answer. The model we built uses a combination of technique content-based and collaborative filtering from the LightFM package to identify how well a novel question would fit for the desired user. In comparison to baseline models of how Super User already recommends questions, the model attains better performance for more recent data, scoring 0.0014, 0.0033, and 0.5160 on precision at 100, recall at 100, and AUC, which is markedly better than the baselines.
+
